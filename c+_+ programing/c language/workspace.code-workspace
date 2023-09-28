@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\c+_+ programing"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"INTERST.C": "cpp"
+		}
+	}
+}
